@@ -70,7 +70,7 @@ function Shop() {
       </Dropdown>
 
     
-      <div className="d-flex  align-items-center w-50 ">
+      <div className="d-flex  align-items-center w-25 ">
             <input   type="text"  value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         className="form-control " placeholder="Search" />
@@ -81,7 +81,7 @@ function Shop() {
      </div>
 <div className='p-5'>
   
-       <div className='d-flex flex-wrap justify-content-around mx-5 px-5   '>
+       <div className='d-flex flex-wrap justify-content-around   '>
      
       
                     <div className='d-flex flex-wrap justify-content-around mx-5 px-5'>
