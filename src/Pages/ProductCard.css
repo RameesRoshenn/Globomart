@@ -1,0 +1,67 @@
+.product-card {
+    width: 300px;
+    margin: 10px;
+    padding: 20px;
+    margin-bottom: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+  }
+  
+  .discount-tag {
+    background-color: #19384d;
+    color: white;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    position: absolute;
+    transform: translateY(-50%);
+  }
+  
+  .product-image {
+    width: 100%;
+    height: auto;
+  }
+  .product-info {
+    text-align: left;
+  }
+  
+  .product-name {
+    font-size: 18px;
+    color: #333;
+    font-weight: bolder;
+   
+   
+    
+  }
+  
+  .product-rating .star {
+    color: orange;
+    margin: 0 2px;
+    font-size: 24px;
+    
+    
+  }
+  
+  .product-price {
+    padding-top: 5px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    
+  }
+  
+  .add-to-cart-button {
+   border-color: black;
+    background-color:white;
+    color: black;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 24px;
+   
+  
+    cursor: pointer;
+  }
+
+  
